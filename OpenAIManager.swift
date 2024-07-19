@@ -22,7 +22,7 @@ struct Message: Decodable {
 }
 
 class OpenAIManager {
-    private let apiKey = "sk-proj-2WoFCfVvcLqvrHq401aTT3BlbkFJ6XeVjr9ZK4wZklasC5YY"  // Replace with your actual API key
+    private let apiKey = ""  // Replace with your actual API key
     private let url = "https://api.openai.com/v1/chat/completions?"
 
     func generateResponse(for prompt: String, completion: @escaping (String) -> Void) {
