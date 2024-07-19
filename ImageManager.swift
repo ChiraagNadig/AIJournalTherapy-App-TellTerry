@@ -35,7 +35,7 @@ class ImageManager {
 
     // for image generation
 
-    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: "sk-proj-2WoFCfVvcLqvrHq401aTT3BlbkFJ6XeVjr9ZK4wZklasC5YY"))
+    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: ""))
 
         
 
