@@ -19,7 +19,7 @@ class TodoViewController: UIViewController, UITableViewDelegate, UITableViewData
     
     private let imageManager = ImageManager()
     
-    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: "sk-proj-2WoFCfVvcLqvrHq401aTT3BlbkFJ6XeVjr9ZK4wZklasC5YY"))
+    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: ""))
     
     let gradientLayer = CAGradientLayer()
     let color1 = UIColor(hex: 0x330066) // darkPurple color
