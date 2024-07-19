@@ -12,7 +12,7 @@ class LoadingViewController: UIViewController {
     private let imageManager = ImageManager()
     var prompts = [String]()
 
-    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: "sk-proj-2WoFCfVvcLqvrHq401aTT3BlbkFJ6XeVjr9ZK4wZklasC5YY"))
+    let openAI = OpenAI(Configuration(organizationId: "Personal", apiKey: ""))
     
     var tableData: [TableRowData] = []
     
