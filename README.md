@@ -3,6 +3,7 @@ The first AI-powered journal therapy app for users to improve their mental healt
 Award winner of Bitcamp hackathon, the largest hackathon on the East Coast!
 
 Website: https://kthakker00.wixsite.com/tell-terry
+
 Video demo: https://drive.google.com/file/d/1KbJSYcBPojx-Wc5IBaHmXinN28wnsBgm/view?usp=sharing
 
 
